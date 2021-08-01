@@ -1,4 +1,4 @@
-p{-|
+{-|
 Module      : Tarefa3
 Description : Compactar labirinto
 Copyright   : Daniel Furtado <a97327@alunos.uminho.pt>;
